@@ -20,19 +20,30 @@ Task 1 Answer - Store 20 had the highest sales with 3.013978e+08 dollar
 Task 2 - Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean to standard deviation
 
 Store	Coefficient of Variation
+
 0	1	0.100292
+
 1	2	0.123424
+
 2	3	0.115021
+
 3	4	0.127083
+
 4	5	0.118668
 
 # Maximum CV
 	Store	Coefficient of Variation
+	
 34	35	0.229681
+
 6	7	0.197305
+
 14	15	0.193384
+
 28	29	0.183742
+
 22	23	0.179721
+
 Task 2 Anwer - Store 14 had the maximum standard deviation in Weekly Sales. Additionally, Store 35 has the maximum coefficient of variation at approximately 0.299
 
 Task 3 - Which store/s has good quarterly growth rate 
