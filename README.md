@@ -1,12 +1,20 @@
 # walmart-sales-analysis
 task1=Which store has maximum sale
+
 Store
+
 20    3.013978e+08
+
 4     2.995440e+08
+
 14    2.889999e+08
+
 13    2.865177e+08
+
 2     2.753824e+08
+
 Name: Weekly_Sales, dtype: float64
+
 Task 1 Answer - Store 20 had the highest sales with 3.013978e+08 dollar
 
 Task 2 - Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean to standard deviation
