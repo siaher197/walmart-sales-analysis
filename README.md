@@ -6,7 +6,7 @@ task1=Which store has maximum sale
 
 Name: Weekly_Sales, dtype: float64
 
-Q1 Answer - Store 20 had the highest sales with 3.013978e+08 dollar
+Q1 Answer - Store 20 had the highest sales with 3.01397808 dollar
 
 Q2 - Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean to standard deviation
 
