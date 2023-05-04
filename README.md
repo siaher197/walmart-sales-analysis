@@ -1,3 +1,4 @@
+<img width="587" alt="2023-05-05 (2)" src="https://user-images.githubusercontent.com/109465506/236301999-ce8fdf8e-cffd-44f5-80aa-3518fcb887e7.png">
 
 
 # walmart-sales-analysis
