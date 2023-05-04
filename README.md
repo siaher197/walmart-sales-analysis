@@ -1,3 +1,5 @@
+
+
 # walmart-sales-analysis
 task1=Which store has maximum sale
 
@@ -43,7 +45,8 @@ LinearRegression
 ![newplot7](https://user-images.githubusercontent.com/109465506/186194370-27c2a912-87d2-43f7-83b0-2e528fc2b95a.png)
 
 RSME: 558069.1143546927
-Score: 3.70016255950284 %
+Score: 3.70016255950284[Uploading walmart.pbix…]()
+ %
 
 DecisionTreeRegressor
 
